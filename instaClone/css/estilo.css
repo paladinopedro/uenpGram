@@ -1,0 +1,102 @@
+/*Corpo da pagina*/
+body{
+  font-family: Arial, Helvetica, sans-serif;
+  background-color: #f2f2f2;
+  padding-top: 50px;
+}
+
+
+/*Arrumando menu*/
+.estiloMenu{
+font-family: 'Shadows Into Light', cursive;
+  font-size: 45px;
+  text-align: center;
+  margin-top: 30px;
+  margin-bottom: 0px;
+}
+
+.estiloLogin{
+  background-color: white;
+  margin: 0 auto;
+  width: 500px;
+  height: 450px;
+  border-radius: 10px;
+  border-style: solid;
+  border-color: #696969;
+  border-width: 2px;
+}
+
+.menuLogin{
+  text-align: center;
+  padding: 10px 50px;
+}
+
+#botaoLogin{
+  background-color: #696969;
+  margin-top: 20px;
+  border-radius: 20px;
+  border-style: solid;
+  border-width: 2px;
+  border-color: #696969;
+  height: 45px;
+  font-size: 20px;
+  color: white;
+}
+/*Fim do Menu*/
+
+.formCredenc input{
+  margin: 8px;
+  border-style: solid;
+  border-color: #696969;
+  border-width: 2px;
+  width: 300px;
+  height: 35px;
+}
+
+.formCredenc input:focus{
+  border-color: #cccccc;
+}
+
+.bgOption{
+  margin-top: 10px;
+  background-color: white;
+  margin: 0 auto;
+  margin-top: 10px;
+  width: 500px;
+  height: 100px;
+  border-radius: 40px;
+  border-style: solid;
+  border-color: #e6e6e6;
+  border-width: 2px;
+  display: table;
+}
+
+.bgOption p{
+  text-align: center;
+}
+
+.vertAlign{
+  display: table-cell;
+  vertical-align: middle;
+}
+
+
+
+/*Arrumando parte de cadastrar*/
+.estiloSignUp{
+  background-color: white;
+  margin: 0 auto;
+  width: 500px;
+  height: 600px;
+  border-radius: 10px;
+  border-style: solid;
+  border-color: #696969;
+  border-width: 2px;
+}
+/*Fim*/
+
+input[type=checkbox]{
+      margin-top: 30px;
+      width:0px;
+      height:0px;
+    }
